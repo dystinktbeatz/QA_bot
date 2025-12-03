@@ -163,15 +163,8 @@ python qabot.py
 
 ## Screenshots & course deliverables
 
-The original course requested screenshots for the following steps (optional but useful for records):
-
-* `pdf_loader` — screenshot showing the code used to load PDFs.
-* `code_splitter.png` — screenshot showing the code used to split documents.
-* `embedding.png` — screenshot showing a sample embedded sentence and the first 5 numbers of the vector.
-* `vectordb.png` — screenshot showing the code that builds the Chroma DB.
-* `retriever.png` — screenshot showing the retriever function.
-
-Place these screenshots under `docs/screenshots/` if you plan to submit or archive the course lab work.
+* `QA bot in action`
+<img width="1366" height="768" alt="5_QA_bot" src="https://github.com/user-attachments/assets/23f7e20a-9561-4011-9086-76d6ac4c3464" />
 
 ---
 
@@ -180,15 +173,6 @@ Place these screenshots under `docs/screenshots/` if you plan to submit or archi
 * Do **not** commit API keys or credentials. Use environment variables or gitignored `.env` files.
 * Uploaded PDFs may contain sensitive information — do not deploy this app publicly without access controls.
 
----
-
-## License & attribution
-
-Add your preferred license file (e.g., `LICENSE`). If this code is based on Coursera course materials, include an acknowledgment such as:
-
-> Parts of this project follow the IBM "RAG and Agentic AI" Coursera course materials. This repository is the author's implementation for learning and demonstration purposes.
-
----
 
 ## Contact / contributions
 
